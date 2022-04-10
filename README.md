@@ -14,5 +14,9 @@ The code is implemented as follows:
 The final result:
 
 <img src="output/result.png">
+<video width="320" height="240" autoplay muted>
+  <source src="output/video.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 <a href="https://editor.p5js.org/rly_niggi/sketches/ELrMxD4mp">Link to run code</a>
